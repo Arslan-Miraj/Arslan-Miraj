@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [YOUR_NAME]
+# 👋 Hey there! I'm Arslan Miraj
 
 <a href="https://github.com/Arslan-Miraj">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;SaaS+Builder;TypeScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
